@@ -3,6 +3,8 @@
 I am datascientiest.
 How about you?
 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM3enZ4dXR4aXJ4ODIwcDlvams2bDdoZ2l0Mmx2MTA2bXN6emF4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif
+
 
 <!--
 **keyboardnorth/keyboardnorth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
