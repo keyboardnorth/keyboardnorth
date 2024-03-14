@@ -3,10 +3,12 @@
 I am datascientiest.
 How about you?
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM3enZ4dXR4aXJ4ODIwcDlvams2bDdoZ2l0Mmx2MTA2bXN6emF4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM3enZ4dXR4aXJ4ODIwcDlvams2bDdoZ2l0Mmx2MTA2bXN6emF4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
+</div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM3enZ4dXR4aXJ4ODIwcDlvams2bDdoZ2l0Mmx2MTA2bXN6emF4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmttcDQ2YnJuOTBsaWZ1bjZuZnNyZmIzbGQ3dmN5YTI4Mm85OHZobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOrwp4STllIPP6zyo/giphy.gif" width="500"/>
 </div>
 
 
