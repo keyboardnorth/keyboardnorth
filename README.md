@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My stack:
-* **IT**: Python, PostgreSQL, SQLAlchemy, Pandas, NumPy, Sklearn, CatBoost, LightGBM, PyTorch, Keras, OpenCV, Git, PySpark, A/B testing, Spacy, BERT, TF-IDF, Matplotlib, Seaborn, SHAP, Time series, re.
+* **IT**: Python, PostgreSQL, SQLAlchemy, A/B testing, Pandas, NumPy, Sklearn, CatBoost, LightGBM, PyTorch, Keras, OpenCV, YOLO, DeepSORT, Git, PySpark, SciPy, Spacy, BERT, TF-IDF, Matplotlib, Seaborn, SHAP, Time series, re.
 * **Industrial engineering**: technologies / equipment of metallurgy and mechanical engineering; passed introductory trainings at many industrial enterprises.
 * **Project management**: Scrum, Agile, 6σ, Learn, Watterfall.
 
